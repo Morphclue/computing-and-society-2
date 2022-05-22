@@ -1,0 +1,46 @@
+\newcommand{\interview}[1]{[#1]} 
+\section{Transcript - Person 1}
+\sloppy
+\texttt{\begin{itemize}[]
+    \setlength\itemsep{0.02em}
+    \linenumbers
+    \item \interview{IV} How old are you?
+    \item \interview{P1} I am 26 years old.
+    \item \interview{IV} What gender do you identify with?
+    \item \interview{P1} Male.
+    \item \interview{IV} What is the highest degree or level of education you have completed?
+    \item \interview{P1} Abitur
+    \item \interview{IV} Which languages do you speak?
+    \item \interview{P1} German, Russian, English and Japanese.
+    \item \interview{IV} Is there a connection between your job and the university?
+    \item \interview{P1} Yes.
+    \item \interview{IV} Are you interested in staying in academia?
+    \item \interview{P1} Yes.
+    \item \interview{IV} How actively do you use social media platforms?
+    \item \interview{P1} On a daily basis.
+    \item \interview{IV} Which social media platforms are you using?
+    \item \interview{P1} Definitely Instagram and beyond. I would argue that Discord is also a social media platform, so Discord. Besides that I do a little in the art field and use ArtStation. There are also a few smaller platforms, but I don't use them so often.
+    \item \interview{IV} What devices are you using to access social media?
+    \item \interview{P1} PC and mobile.
+    \item \interview{IV} Would you describe yourself as a passive or active social media user?
+    \item \interview{P1} More active than passive.
+    \item \interview{IV} Why are you using social media?
+    \item \interview{P1} Actually, in most cases, to give me some inspiration. And not only in the context of art, but also in general. When I see people somehow trying something specific, the inner desire arises to try it out for myself. Motivation describes this really well.
+    \item \interview{IV} What do you like about social media?
+    \item \interview{P1} That in the end it's accessible to everyone and depending on the context in which you use it, there's always the possibility of being anonymous and somehow making your own stuff. That means you don't necessarily have to show your face in any way in order to do art, for example. The content is usually more in focus than the person behind it. It's quite at odds with general social media, probably because I think self-promotion is the most important thing, but in this huge construct of self-promotion you can usually also find people who are very content-based and productive. I actually like that very much.
+    \item \interview{IV} What do you dislike about social media?
+    \item \interview{P1} The first thing I described is I'm not a fan of excessive self-promotion. Sometimes it gets to the point where you realize it's very fake and not real.
+    \item \interview{IV} What should be included in your profile?
+    \item \interview{P1} It is definitely important to show other people what you are studying. In addition, the basic standard information, birthday, name and so on. I find it important to be able to optionally disclose such personal information. I would like to have the opportunity to specify my specializations within my subject or interdisciplinary.
+    \item \interview{IV} How would you like to share information with other users?
+    \item \interview{P1} I'm actually kind of a fan of feed formats. Others can then react with emojis or comment on the post. In addition to that I would really like to see a feature that covers interest-specific groups.
+    \item \interview{IV} What would be the main functionalities of such a platform?
+    \item \interview{P1} I would very much like to see a listing of events. Seminars or exciting lectures should also be available for me from other departments. But I also think that companies should have their own website to finance the platform and provide jobs. However, one would have to be careful that students are not enticed away from their studies.
+    \item \interview{IV} What should happen to users that do no study at University of Kassel anymore?
+    \item \interview{P1} I don't want to ban them completely, but many functionalities should be restricted. For example, people should no longer be able to attend university events. 
+    \item \interview{IV} Where do you think the strengths of such a platform could be?
+    \item \interview{P1} I find the networking aspect to be rather important. I really don't like it when people only go to lectures and then go home as fast as possible.
+    \item \interview{IV} Where do you think the weaknesses of such a platform could be?
+    \item \interview{P1} One thing I would find awful is if the content is overly regulated. Under no circumstances should this happen. Of course there should be guidelines and extreme content should be banned, but there should be no censorship.
+\end{itemize}}
+\nolinenumbers
