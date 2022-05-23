@@ -4,42 +4,42 @@
     \setlength\itemsep{0.02em}
     \linenumbers
     \item \interview{IV} How old are you?
-    \item \interview{P1} 
+    \item \interview{P1} 27.
     \item \interview{IV} What gender do you identify with?
-    \item \interview{P1} 
+    \item \interview{P1} Male.
     \item \interview{IV} What is the highest degree or level of education you have completed?
-    \item \interview{P1} 
+    \item \interview{P1} Bachelor.
     \item \interview{IV} Which languages do you speak?
-    \item \interview{P1} 
+    \item \interview{P1} German and English.
     \item \interview{IV} Is there a connection between your job and the university?
-    \item \interview{P1} 
+    \item \interview{P1} Not really.
     \item \interview{IV} Are you interested in staying in academia?
-    \item \interview{P1} 
+    \item \interview{P1} No.
     \item \interview{IV} How actively do you use social media platforms?
-    \item \interview{P1} 
+    \item \interview{P1} Daily.
     \item \interview{IV} Which social media platforms are you using?
-    \item \interview{P1} 
+    \item \interview{P1} Instagram and WhatsApp if that counts.
     \item \interview{IV} What devices are you using to access social media?
-    \item \interview{P1} 
+    \item \interview{P1} Only on my Smartphone.
     \item \interview{IV} Would you describe yourself as a passive or active social media user?
-    \item \interview{P1} 
+    \item \interview{P1} Passive.
     \item \interview{IV} Why are you using social media?
-    \item \interview{P1} 
+    \item \interview{P1} I like to be entertained.
     \item \interview{IV} What do you like about social media?
-    \item \interview{P1} 
+    \item \interview{P1} I like that it is fast and accessible.
     \item \interview{IV} What do you dislike about social media?
-    \item \interview{P1} 
+    \item \interview{P1} The massive flood of information.
     \item \interview{IV} What should be included in your profile?
-    \item \interview{P1} 
+    \item \interview{P1} Assuming the university network, I could imagine a curriculum vitae at least for lecturers. For students the course of studies should be displayed. Then a name or pseudonym would be good, otherwise everything else is optional information.
     \item \interview{IV} How would you like to share information with other users?
-    \item \interview{P1} 
+    \item \interview{P1} On a timeline, similiar to Facebook if that is still the case.
     \item \interview{IV} What would be the main functionalities of such a platform?
-    \item \interview{P1} 
+    \item \interview{P1} Definitely supplements to lectures. If the lecturer says that information can be added later, that could well take place on such a platform. Well or at least a link to the corresponding course on moodle. The study group search should also be done via the site. Actually what you have already built for the students in the Discord.
     \item \interview{IV} What should happen to users that do no study at University of Kassel anymore?
-    \item \interview{P1} 
+    \item \interview{P1} I wouldn't mind having a guest account so people can still catch things about events or content. However, the person should only have read rights.
     \item \interview{IV} Where do you think the strengths of such a platform could be?
-    \item \interview{P1} 
+    \item \interview{P1} A uniform distribution of information and not everything being criss-crossed. Then I think the feedback is a bit more immediate than if you always have to write e-mails.
     \item \interview{IV} Where do you think the weaknesses of such a platform could be?
-    \item \interview{P1} 
+    \item \interview{P1} The faster feedback creates a lower inhibition threshold to write more critical things or vent your anger. Coupled with the pseudonym, this is of course even more likely. I can imagine that such a platform could also be used as an advertising space. This should of course be prevented.
 \end{itemize}}
 \nolinenumbers
