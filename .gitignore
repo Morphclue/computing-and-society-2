@@ -8,4 +8,5 @@
 *.out
 *.pdf
 *.synctex.gz
+*.synctex(busy)
 .vscode
