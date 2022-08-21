@@ -273,7 +273,7 @@ A general censorship or moderation of content is of course important, because ot
 For this reason, a dividing line must be drawn at a certain point from which content must be censored.
 Of course, care should be taken to ensure that this dividing line does not interfere with freedom of expression.
 With the help of AI, it would be possible to ensure the filtering of certain content.
-However, even AI is not error-free, and it must be continuously researched in order to constantly improve it. 
+However, even AI is not error-free, and it must be continuously researched in order to constantly improve it.
 More information on this in \autoref{sec:ai}.\\
 
 Another concern is the issue of spreading misinformation.\textcolor{red}{transcripts}
@@ -284,11 +284,62 @@ Another point is that there is concern that students may not see any added value
 While this concern is valid, it is unlikely.
 The interviews were initially carried out in order to achieve a high acceptance rate among the students.
 Many functionalities were also mentioned, which are of great interest.
-Learning groups or tailored jobs seem to offer good value compared to other platforms. 
+Learning groups or tailored jobs seem to offer good value compared to other platforms.
 But the most important point is that students already use such a platform in a slimmed-down form and are also active there.
 The Discord server that has been set up clearly shows that enough active users participate in this platform and would therefore probably switch to a platform with more functionalities.
 
 \subsection{Market analysis}
-% TODO: Explain market analysis and what the goal is
-% TODO: critics on other social media?
-% TODO: Market - reflect other design carefully
+Since the interview data only amounts to five interviews, it is of course interesting to add further data.
+For this reason, a market analysis was started with existing similar social platforms.
+This is of course advantageous because other designers have already thought about the platform design of their social media.
+The aforementioned example with Meta, that despite problems, designers decide on a certain design, shows that other features of social platforms should be treated with caution.
+Each individual feature should continue to be critically questioned as in the interviews.\\
+
+As part of the research, many social media platforms were examined.
+It turned out that Facebook, Instagram, Reddit, LinkedIn and ResearchGate have the most interesting features that could also be built into UK4You.
+
+\begin{figure}[ht]
+    \centering
+    \begin{tikzpicture}[scale=0.8]
+        \begin{axis}[
+                enlarge y limits=0.29,
+                xbar,
+                xmin = 0, xmax = 5,
+                symbolic y coords = {Timeline, Upvote, Comment, Message},
+                xlabel={Number of supported platforms},
+                ylabel={Feature}
+            ]
+            \addplot coordinates {
+                    (5,Timeline)
+                    (5,Upvote)
+                    (5,Comment)
+                    (5,Message)
+                };
+        \end{axis}
+    \end{tikzpicture}
+    \caption{Market analysis features}
+    \label{fig:market-analysis}
+\end{figure}
+
+At first glance, \autoref{fig:market-analysis} shows that all selected platforms offer the same core functionalities.
+All content is also shown on a timeline.
+What is much more interesting here is how this timeline is displayed and how to configure it.
+It was previously discussed that infinite scroll must be interrupted in some way.
+Instagram has taken preventive measures for this.
+When users scroll down the timeline, a banner that reads "Post You've already seen" will inform them that there is no more recent information from this point on.\\
+
+Reddit, on the other hand, offers the most versatile way to configure the timeline.
+There it is possible to sort the content according to different criteria.
+Best shows posts with the best upvote/downvote ratio. Hot shows the posts that have currently been most upvoted and commented on.
+Top generally shows the most upvotes regardless of downvotes.
+The sorting by top can then continue to be sorted into specific time periods such as top posts of all time or last week.\\
+
+All platforms except Reddit do without downvotes. Facebook and LinkedIn, on the other hand, even have more than one way to respond to content.
+This can also be a useful feature, because a Like on an action in which several people died can be misinterpreted.
+Instead, Facebook's sad response might be a better response.
+However, more ways to react also potentially provide more ways to be misinterpreted or trolled with.
+For this reason UK4You will only have a single reaction.\\
+
+ResearchGate offers the last interesting feature regarding timelines.
+Posts are given a label there, which should explain why this post is being suggested.
+This seems to be an interesting to make the AI behind these posts explainable.\\
