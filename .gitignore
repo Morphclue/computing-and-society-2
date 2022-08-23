@@ -6,7 +6,7 @@
 *.fdb_latexmk
 *.fls
 *.out
-*.pdf
+main.pdf
 *.synctex.gz
 *.synctex(busy)
 .vscode
